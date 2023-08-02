@@ -2,7 +2,7 @@
 
 List of participants and affiliations:
 - Participant, Affiliation (Team Leader)
-- Participant, Affiliation
+- Wenyu(Eddy)Huang, Department of Computer Science, Rice University
 
 ## Project Goals
 
