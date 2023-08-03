@@ -5,6 +5,7 @@ List of participants and affiliations:
 - Wenyu(Eddy)Huang, Department of Computer Science, Rice University
 - Nicole Bowers, Bacterial and Viral Bioinformatics Resource Center, Argonne National Laboratory
 - Hao Hong Yiu, University of Maryland, College Park
+- Pooja Singaravelu, Department of Bioinformatics, Pondicherry University
 
 ## Project Goals
 
