@@ -23,7 +23,8 @@ The interaction between SARS-CoV-2 Spike (S) and human angiotensin-converting en
 
 ## Results
 
- - 5521380 samples with country-level location
+ - 5,521,380 samples with country-level location\
+ - 7,638 unique variants
 
 ## Future Work
 
