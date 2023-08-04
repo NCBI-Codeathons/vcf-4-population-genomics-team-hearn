@@ -27,3 +27,5 @@ Create visualization of binding affinities between SARS-CoV-2 S variants and ACE
 
 Bakhshandeh B, Sorboni SG, Javanmard AR, Mottaghi SS, Mehrabi MR, Sorouri F, Abbasi A, Jahanafrooz Z. Variants in ACE2; potential influences on virus infection and COVID-19 severity. Infect Genet Evol. 2021 Jun;90:104773. doi: 10.1016/j.meegid.2021.104773. Epub 2021 Feb 17. PMID: 33607284; PMCID: PMC7886638.
 Gordon, D.E., Jang, G.M., Bouhaddou, M. et al. A SARS-CoV-2 protein interaction map reveals targets for drug repurposing. Nature 583, 459–468 (2020). https://doi.org/10.1038/s41586-020-2286-9
+Sierk, M., Ratnayake, S., Wagle, M.M. et al. 3DVizSNP: a tool for rapidly visualizing missense mutations identified in high throughput experiments in iCn3D. BMC Bioinformatics 24, 244 (2023). https://doi.org/10.1186/s12859-023-05370-5
+
