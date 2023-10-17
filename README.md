@@ -6,6 +6,7 @@ List of participants and affiliations:
 - Nicole Bowers, Bacterial and Viral Bioinformatics Resource Center, Argonne National Laboratory
 - Hao Hong Yiu, University of Maryland, College Park
 - Pooja Singaravelu, Department of Bioinformatics, Pondicherry University
+- Mikołaj Carchuta, Adam Mickiewicz University
 
 ## Project Goals
 
